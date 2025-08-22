@@ -28,7 +28,7 @@ Open http://localhost/your-project-folder/ in a browser.
 🌍 Multilingual Support for global users.
 
 👨‍💻 Author
-Ayush Phadatare
+Atharva Malvade
 🔗 Portfolio
 📧 Email
 📌 GitHub
